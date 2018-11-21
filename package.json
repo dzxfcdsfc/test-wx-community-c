@@ -1,0 +1,19 @@
+{
+  "name": "test-wx-community-c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzxfcdsfc/test-wx-community-a.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzxfcdsfc/test-wx-community-a/issues"
+  },
+  "homepage": "https://github.com/dzxfcdsfc/test-wx-community-a#readme"
+}
