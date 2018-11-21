@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dzxfcdsfc/test-wx-community-a.git"
+    "url": "git+https://github.com/dzxfcdsfc/test-wx-community-c.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dzxfcdsfc/test-wx-community-a/issues"
+    "url": "https://github.com/dzxfcdsfc/test-wx-community-c/issues"
   },
-  "homepage": "https://github.com/dzxfcdsfc/test-wx-community-a#readme"
+  "homepage": "https://github.com/dzxfcdsfc/test-wx-community-c#readme"
 }
